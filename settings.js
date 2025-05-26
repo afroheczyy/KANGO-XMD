@@ -4,7 +4,7 @@
 // @author : Hector 
 // @telegram : http://t.me/official_kango
 // @github : OfficialKango
-// @whatsapp : +233509977126
+// @whatsapp : +233556797435
 
 //----------------------[ KANGO-XMD ]----------------------//
 
@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'KANGO~N38WnKwB#EKv7SkE2LaFzSqgaUaJio8RVogpWKlo8ZLMMGxpEiuU' 
+global.SESSION_ID = process.env.SESSION_ID || 'KANGO~1udhiAAK#ksUmVmiYOQaeF56onqPH7pBFVK7vOJbZIuCCUMxhIKM' 
 //Enter your KANGO-XMD session id here; must start with KANGO~
 
 //--------------------[ BOT NAME ]----------------------//
